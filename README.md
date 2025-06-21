@@ -1,1 +1,2 @@
 # MOBLIE-HEALTH-CARE
+Designed a user-friendly and intuitive mobile interface for a healthcare application using Figma. Createdwireframes, interactive prototypes, and visually appealing UI/UX designs to streamline patient-doctorinteractions, appointment scheduling, and health tracking. Focused on accessibility and ease of use,ensuring a seamless experience for users to manage their healthcare needs on the go.
